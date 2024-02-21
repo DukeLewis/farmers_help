@@ -12,8 +12,8 @@
         <module>farmers_help-domain</module>
         <module>farmers_help-infrastructure</module>
         <module>farmers_help-common</module>
-        <module>armers_help-trigger</module>
         <module>farmers_help-application</module>
+        <module>farmers_help-trigger</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

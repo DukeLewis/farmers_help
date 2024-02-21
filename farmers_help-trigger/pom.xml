@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>armers_help-trigger</artifactId>
+    <artifactId>farmers_help-trigger</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
